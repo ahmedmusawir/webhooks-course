@@ -10,4 +10,4 @@ This repository contains detailed notes and code for the Understanding Webhooks 
 * [🎮 Learn more for free using a video game](https://twilio.com/quest?utm_source=gh-link&utm_medium=referral&utm_campaign=webhooks-course)
 
 
-[@craigsdennis](https://twitter.com/craigsdennis)jj;lk;k;lk;lk;lk;lk
+[@craigsdennis](https://twitter.com/craigsdennis)jj;lk;k;lk;lk;lk;lk FUCK THIS SHIT
